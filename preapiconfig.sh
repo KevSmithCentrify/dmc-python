@@ -31,3 +31,6 @@ ccli /sysinfo/version
 cd /usr/local/bin/dmc-python
 curl -o cgetsecret.py -L https://raw.githubusercontent.com/KevSmithCentrify/dmc-python/master/cgetsecret.py
 chmod 750 /usr/local/bin/dmc-python/cgetsecret.py
+
+curl -o pullwebcode.sh -L https://raw.githubusercontent.com/KevSmithCentrify/dmc-python/master/pullwebcode.sh
+chmod 750 /usr/local/bin/dmc-python/pullwebcode.sh
