@@ -34,3 +34,6 @@ chmod 750 /usr/local/bin/dmc-python/cgetsecret.py
 
 curl -o pullwebcode.sh -L https://raw.githubusercontent.com/KevSmithCentrify/dmc-python/master/pullwebcode.sh
 chmod 750 /usr/local/bin/dmc-python/pullwebcode.sh
+
+cd /usr/local/bin/dmc-python/ 
+
